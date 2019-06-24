@@ -1,0 +1,5 @@
+/extension/
+!/extension/build.sh
+!/extension/config.m4
+!/extension/xor_string.h
+!/extension/xor_string.c
